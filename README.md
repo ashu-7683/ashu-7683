@@ -10,7 +10,7 @@
 - 💡 Passionate about building scalable web apps & solving real-world problems  
 - 👯 Open to collaborating on **Open Source Projects**  
 - 💬 Ask me about **Web Development, Python, Django, React, and Databases**  
-- 📫 Reach me at: **your.ashutoshkhilar5@gmail.com**  
+- 📫 Reach me at: **ashutoshkhilar5@gmail.com**  
 
 ---
 
