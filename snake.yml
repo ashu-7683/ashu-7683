@@ -1,0 +1,52 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      # Light Snake (SVG + GIF)
+      - name: Generate Snake (Light mode)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ashu-7683
+          outputs: |
+            dist/github-snake-light.svg
+            dist/github-snake-light.gif
+
+      # Dark Snake (SVG + GIF + Neon Colors)
+      - name: Generate Snake (Dark mode)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ashu-7683
+          outputs: |
+            dist/github-snake-dark.svg
+            dist/github-snake-dark.gif
+          color_snake: "#00ffcc"
+          color_dots: "#1abc9c,#3498db,#9b59b6,#e74c3c,#f1c40f"
+
+      # Rainbow Snake (SVG + GIF)
+      - name: Generate Snake (Rainbow mode)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ashu-7683
+          outputs: |
+            dist/github-snake-rainbow.svg
+            dist/github-snake-rainbow.gif
+          color_snake: "rainbow"
+          color_dots: "#ff0000,#ff7300,#fffb00,#48ff00,#00ffd5,#002bff,#7a00ff,#ff00ab"
+
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
