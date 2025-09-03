@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/285475/screenshots/2083086/dribbble_1.gif" width="300"/>
+  <img src="https://hacked-github-readme-stats.vercel.app/api/banner?text=Ashutosh+Khilar&font=Orbitron&effect=neon&animation=glow&color=00F7FF&size=50" alt="Ashutosh Khilar Futuristic Banner"/>
 </p>
 
 ---
@@ -35,15 +35,23 @@
 ## 🌐 My Developer Journey  
 
 ### 🎨 Frontend  
-<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-frontend-web-development-flaticons-lineal-color-flat-icons.png" width="80"/>  
+<p align="center">
+  <img src="https://cdn3d.iconscout.com/3d/premium/thumb/frontend-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--design-development-programmer-pack-user-interface-icons-9077080.png?f=webp" width="200"/>
+  
+</p>   
 **HTML | CSS | JavaScript | React | TailwindCSS**
 
 ### ⚙️ Backend  
-<img src="https://img.icons8.com/external-wanicon-flat-wanicon/344/external-backend-coding-wanicon-flat-wanicon.png" width="80"/>  
+<p align="center">
+  <img src="https://cdn3d.iconscout.com/3d/premium/thumb/backend-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--developer-programming-computer-coding-pack-icons-9077084.png?f=webp" width="200"/>
+
+</p>   
 **Python | Django | FastAPI**
 
 ### 🌍 Fullstack  
-<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/344/external-fullstack-computer-science-flaticons-flat-flat-icons.png" width="80"/>  
+<p align="center">
+<img src="https://cdn3d.iconscout.com/3d/premium/thumb/full-stack-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--developer-programmer-front-end-back-end-pack-icons-9077078.png?f=webp" width="200"/>
+</p>  
 **Frontend + Backend + Databases + Cloud**
 
 ---
@@ -51,6 +59,14 @@
 ## 🚀 Featured Projects  
 
 <p align="center">
+  <a href="https://github.com/ashu-7683/GAN_Model">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashu-7683&repo=GAN_Model&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/ashu-7683/Movie_recommendation_system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashu-7683&repo=Movie_recommendation_system&theme=tokyonight" />
+</a>
+
   <a href="https://github.com/ashu-7683/Credit_Card">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashu-7683&repo=Credit_Card&theme=radical"/>
   </a>
@@ -74,6 +90,17 @@
 
 ---
 
+## 🐍 Contribution Snake (Animated)
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashu-7683/ashu-7683/output/github-snake-dark.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashu-7683/ashu-7683/output/github-snake-light.gif" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ashu-7683/ashu-7683/output/github-snake-rainbow.gif" />
+  </picture>
+</p>
+
+---
 ## 🌐 Connect With Me  
 
 <p align="center">
