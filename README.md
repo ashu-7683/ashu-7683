@@ -101,11 +101,15 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashu-7683/ashu-7683/output/github-snake-dark.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashu-7683/ashu-7683/output/github-snake-light.gif" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ashu-7683/ashu-7683/output/github-snake-rainbow.gif" />
+    <!-- Dark Mode -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashu-7683/ashu-7683/output/github-contribution-grid-snake-dark.svg" />
+    <!-- Light Mode -->
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashu-7683/ashu-7683/output/github-contribution-grid-snake.svg" />
+    <!-- Default (fallback / rainbow) -->
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ashu-7683/ashu-7683/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+
 
 ---
 
