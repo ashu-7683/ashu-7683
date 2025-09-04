@@ -1,10 +1,7 @@
-<h1 align="center"> 
-  Hi 👋, I'm <a href="https://github.com/ashu-7683">Ashutosh Khilar</a>  
-</h1>
+# Hi 👋, I'm Ashutosh Khilar  
+### 🚀 Full Stack Developer | Web Developer | Python Developer  
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F700&width=500&lines=Full+Stack+Developer;Python+Developer;Open+Source+Contributor;Cloud+Deployment+%26+FastAPI" alt="Typing SVG" />
-</p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ---
 
@@ -36,22 +33,27 @@
 
 ### 🎨 Frontend  
 <p align="center">
-  <img src="https://cdn3d.iconscout.com/3d/premium/thumb/frontend-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--design-development-programmer-pack-user-interface-icons-9077080.png?f=webp" width="200"/>
-  
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" width="120" alt="Frontend"/>  
 </p>   
+
 **HTML | CSS | JavaScript | React | TailwindCSS**
+
+---
 
 ### ⚙️ Backend  
 <p align="center">
-  <img src="https://cdn3d.iconscout.com/3d/premium/thumb/backend-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--developer-programming-computer-coding-pack-icons-9077084.png?f=webp" width="200"/>
-
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="120" alt="Backend"/>  
 </p>   
+
 **Python | Django | FastAPI**
+
+---
 
 ### 🌍 Fullstack  
 <p align="center">
-<img src="https://cdn3d.iconscout.com/3d/premium/thumb/full-stack-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--developer-programmer-front-end-back-end-pack-icons-9077078.png?f=webp" width="200"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="120" alt="Fullstack"/>  
 </p>  
+
 **Frontend + Backend + Databases + Cloud**
 
 ---
@@ -60,16 +62,17 @@
 
 <p align="center">
   <a href="https://github.com/ashu-7683/GAN_Model">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashu-7683&repo=GAN_Model&theme=tokyonight" />
-</a>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashu-7683&repo=GAN_Model&theme=tokyonight" />
+  </a>
 
-<a href="https://github.com/ashu-7683/Movie_recommendation_system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashu-7683&repo=Movie_recommendation_system&theme=tokyonight" />
-</a>
+  <a href="https://github.com/ashu-7683/Movie_recommendation_system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashu-7683&repo=Movie_recommendation_system&theme=tokyonight" />
+  </a>
 
   <a href="https://github.com/ashu-7683/Credit_Card">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashu-7683&repo=Credit_Card&theme=radical"/>
   </a>
+
   <a href="https://github.com/ashu-7683/House_Price_Prediction">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashu-7683&repo=House_Price_Prediction&theme=radical"/>
   </a>
@@ -101,6 +104,7 @@
 </p>
 
 ---
+
 ## 🌐 Connect With Me  
 
 <p align="center">
@@ -116,4 +120,5 @@
 </p>
 
 ---
-⭐ From [AshutoshKhilar](https://github.com/ashu-7683)
+
+⭐ From [AshutoshKhilar](https://github.com/ashu-7683)  
