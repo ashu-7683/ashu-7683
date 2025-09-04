@@ -1,19 +1,21 @@
-# Hi 👋, I'm Ashutosh Khilar  
-### 🚀 Full Stack Developer | Web Developer | Python Developer  
+<p align="center">
+<img alt="Coding" width="600" height="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+# <p align="center"> Hi 👋, I am Ashutosh Khilar </p>  
+### <p align="center"> 🚀 Full Stack Developer | Web Developer | Python Developer </p>  
 
 ---
 
 <p align="center">
-  <img src="https://hacked-github-readme-stats.vercel.app/api/banner?text=Ashutosh+Khilar&font=Orbitron&effect=neon&animation=glow&color=00F7FF&size=50" alt="Ashutosh Khilar Futuristic Banner"/>
+  <img width="600" src=https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnFmZTVoOThqNm04aXN2MzNsNDkzbjQzb2Q0MnlmazdzbDg2bWVwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif alt="Ashutosh Khilar Futuristic Banner"/>
 </p>
 
 ---
 
 ## 🚀 About Me  
 
-- 🌱 Currently learning **FastAPI, Cloud Deployment**
+- 🌱 Currently learning **FastAPI, Cloud Deployment, CI/CD Pipelines**
 - 💡 Passionate about building **scalable web apps** & solving **real-world problems**
 - 🤝 Open to collaborating on **Open Source Projects**
 - 💬 Ask me about **Web Development, Python, Django, React, and Databases**
@@ -24,7 +26,7 @@
 ## 🖥️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,django,fastapi,git,docker,postgresql,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,fastapi,git,mysql,aws&theme=dark" />
 </p>
 
 ---
@@ -33,28 +35,28 @@
 
 ### 🎨 Frontend  
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" width="120" alt="Frontend"/>  
+  <img src="https://raw.githubusercontent.com/ashu-7683/ashu-7683/main/assets/Frontend.jpg" width="300" height="300" alt="Frontend"/>  
 </p>   
 
-**HTML | CSS | JavaScript | React | TailwindCSS**
+**<h1 align="center">HTML | CSS | JavaScript | React | TailwindCSS<h1>**
 
 ---
 
 ### ⚙️ Backend  
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="120" alt="Backend"/>  
+  <img src="https://raw.githubusercontent.com/ashu-7683/ashu-7683/main/assets/backend.jpg" width="300" height="300" alt="Backend"/>  
 </p>   
 
-**Python | Django | FastAPI**
+**<h1 align="center">Python | Django | FastAPI</h1>**
 
 ---
 
 ### 🌍 Fullstack  
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="120" alt="Fullstack"/>  
+  <img src="https://raw.githubusercontent.com/ashu-7683/ashu-7683/main/assets/fullstack.jpg" width="300" height="200" alt="Fullstack"/>  
 </p>  
 
-**Frontend + Backend + Databases + Cloud**
+**<h1 align="center">Frontend + Backend + Databases + Cloud</h1>**
 
 ---
 
@@ -82,11 +84,13 @@
 
 ## 📊 GitHub Stats  
 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashu-7683&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashu-7683&layout=compact&theme=tokyonight" height="180em"/>
 </p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashu-7683&layout=compact&theme=tokyonight" height="200em"/>
+</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashu-7683&theme=tokyonight" />
 </p>
