@@ -97,22 +97,6 @@
 
 ---
 
-## 🐍 Contribution Snake (Animated)
-
-<p align="center">
-  <picture>
-    <!-- Dark Mode -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashu-7683/ashu-7683/output/github-contribution-grid-snake-dark.svg" />
-    <!-- Light Mode -->
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashu-7683/ashu-7683/output/github-contribution-grid-snake.svg" />
-    <!-- Default (fallback / rainbow) -->
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ashu-7683/ashu-7683/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
-
----
-
 ## 🌐 Connect With Me  
 
 <p align="center">
