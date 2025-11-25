@@ -68,7 +68,7 @@
   </a>
 
   <a href="https://github.com/ashu-7683/Movie_recommendation_system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashu-7683&repo=Movie_recommendation_system&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashu- 7683&repo=Movie_recommendation_system&theme=tokyonight" />
   </a>
 
   <a href="https://github.com/ashu-7683/Credit_Card">
