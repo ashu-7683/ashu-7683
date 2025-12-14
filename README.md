@@ -42,7 +42,7 @@
   <img src="https://raw.githubusercontent.com/ashu-7683/ashu-7683/main/assets/Frontend.jpg" width="300" height="300" alt="Frontend"/>  
 </p>   
 
-**<h1 align="center">HTML | CSS | JavaScript | React | TailwindCSS<h1>**
+**<h1 align="center">HTML | CSS | JavaScript | React | Bootstrap<h1>**
 
 ---
 
@@ -51,7 +51,7 @@
   <img src="https://raw.githubusercontent.com/ashu-7683/ashu-7683/main/assets/backend.jpg" width="300" height="300" alt="Backend"/>  
 </p>   
 
-**<h1 align="center">Python | Django | FastAPI</h1>**
+**<h1 align="center">Python | Django | Flask</h1>**
 
 ---
 
@@ -60,7 +60,7 @@
   <img src="https://raw.githubusercontent.com/ashu-7683/ashu-7683/main/assets/fullstack.jpg" width="300" height="200" alt="Fullstack"/>  
 </p>  
 
-**<h1 align="center">Frontend + Backend + Databases + Cloud</h1>**
+**<h1 align="center">Frontend + Backend + Databases </h1>**
 
 ---
 
