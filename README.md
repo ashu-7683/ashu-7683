@@ -1,10 +1,11 @@
+![](https://komarev.com/ghpvc/?username=ashu-7683&color=green)  
+  [![Website](https://img.shields.io/website?label=ashu-7683&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/ashutoshkhilar7683/)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/ashutosh_k63132?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ashutosh_k63132/)
+
 <p align="center">
 <img alt="Coding" width="600" height="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </p>
 
-![](https://komarev.com/ghpvc/?username=ashu-7683&color=green)  
-  [![Website](https://img.shields.io/website?label=ashu-7683&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/ashutoshkhilar7683/)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/ashutosh_k63132?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ashutosh_k63132/)
   
 # <p align="center"> Hi 👋, I am Ashutosh Khilar </p>  
 ### <p align="center"> 🚀 Full Stack Developer | Web Developer | Python Developer </p>  
