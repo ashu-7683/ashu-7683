@@ -15,10 +15,6 @@
     <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=40&animation=flash&textAlignment=horizontal&showText=true" alt="linkedin" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://twitter.com/ashutosh_k63132" target="_blank">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=twitter&size=40&animation=flash&textAlignment=horizontal&showText=true" alt="twitter" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://www.instagram.com/__ashu.u.u__/" target="_blank">
     <img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=40&animation=flash&textAlignment=horizontal&showText=true" alt="instagram" />
   </a>
