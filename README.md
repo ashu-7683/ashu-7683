@@ -6,15 +6,37 @@
 <img alt="Coding" width="600" height="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </p>
 
-  
-# <p align="center"> Hi 👋, I am Ashutosh Khilar </p>  
-### <p align="center"> 🚀 Full Stack Developer | Web Developer | Python Developer </p>  
+<div align="center">
 
----
-
-<p align="center">
-  <img width="600" src=https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnFmZTVoOThqNm04aXN2MzNsNDkzbjQzb2Q0MnlmazdzbDg2bWVwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif alt="Ashutosh Khilar Futuristic Banner"/>
+<!-- Social Badges -->
+<p>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ashutoshkhilar7683/" target="_blank">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=40&animation=flash&textAlignment=horizontal&showText=true" alt="linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/ashutosh_k63132" target="_blank">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=twitter&size=40&animation=flash&textAlignment=horizontal&showText=true" alt="twitter" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/__ashu.u.u__/" target="_blank">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=40&animation=flash&textAlignment=horizontal&showText=true" alt="instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/ashutosh.khilar.98/" target="_blank">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=facebook&size=40&animation=flash&textAlignment=horizontal&showText=true" alt="facebook" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:ashutoshkhilar5@gmail.com">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=gmail&size=40&animation=flash&textAlignment=horizontal&showText=true" alt="gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://ashu-7683.github.io/">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=webpack&size=40&animation=flash&textAlignment=horizontal&showText=true&text=Portfolio" alt="portfolio" />
+  </a>
 </p>
+
+</div>
 
 ---
 
@@ -28,11 +50,47 @@
 
 ---
 
-## 🖥️ Tech Stack  
+## My favorite tools and technologies ⚙️
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,fastapi,git,mysql,aws&theme=dark" />
-</p>
+> Tools and technologies that I have worked with and am interested in
+
+<table>
+  <!-- Row 1 -->
+  <tr>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65"/><br>Python</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="65" height="65"/><br>C</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65" height="65"/><br>JavaScript</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65" height="65"/><br>HTML5</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="65" height="65"/><br>CSS3</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="65" height="65"/><br>Bootstrap</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65"/><br>React</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" height="65"/><br>Git</td>
+  </tr>
+
+  <!-- Row 2 -->
+  <tr>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="65" height="65"/><br>Django</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="65" height="65"/><br>Flask</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="65" height="65"/><br>FastAPI</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65" height="65"/><br>MySQL</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="65" height="65"/><br>Oracle SQL</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65" height="65"/><br>Docker</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="65" height="65"/><br>GitHub</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="65" height="65"/><br>CI/CD</td>
+  </tr>
+
+  <!-- Row 3 -->
+  <tr>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="65" height="65"/><br>TensorFlow</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="65" height="65"/><br>Keras</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="65" height="65"/><br>NumPy</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="65" height="65"/><br>Pandas</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="65" height="65"/><br>Scikit-Learn</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="65" height="65"/><br>Matplotlib</td>
+    <td align="center" width="96"><img src="https://img.icons8.com/color/65/microsoft-excel-2019.png" width="65" height="65"/><br>Excel</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" height="65"/><br>Linux</td>
+  </tr>
+</table>
 
 ---
 
